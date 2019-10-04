@@ -18,7 +18,6 @@ You should now see `(venv)` before each line of your command line prompt.
 ```
 pip install flask
 ```
-NOTE: You might not need to use the `--user` flag when installing SocketIO and Eventlet. I needed to in both cases, which is why I'm making it the default.
 
 That's it! Remember to always activate your virtual environment with `. ./venv/bin/activate` in the `metro-transit-api` directory before you start the server.
 
